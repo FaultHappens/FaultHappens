@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitriy
 - 👀 I’m interested in AR and AI
-- 🌱 I’m currently learning Andrid Development
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/dmitriy-tskitishvili-50612b1b8/
 
